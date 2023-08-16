@@ -1,1 +1,1 @@
-# future-friendly
+# Medical chatbot using BMI calculator
